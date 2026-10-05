@@ -1,6 +1,6 @@
 """
 Adaptive E-Learning Personalization Engine
-Author: [Your Name]
+Author: Nicole Shane P. Tuazon
 Date: October 6, 2026
 """
 
